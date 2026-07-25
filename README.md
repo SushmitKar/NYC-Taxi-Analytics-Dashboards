@@ -5,7 +5,7 @@ Analysis of 67M+ NYC Yellow Taxi trips (2021–2022) using BigQuery SQL,
 visualized in Tableau Public and Power BI Desktop.
 
 ## Live Dashboard
-[View on Tableau Public](https://public.tableau.com/app/profile/sushmit.kar/viz/NYCTaxiBusinessAnalytics/Dashboard1?publish=yes)
+[View on Tableau Public](https://public.tableau.com/app/profile/sushmit.kar/viz/NYCTaxiBusinessAnalytics/Dashboard1)
 
 ## Tools
 - Google BigQuery (SQL analysis)
